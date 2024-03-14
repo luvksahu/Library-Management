@@ -1,2 +1,3 @@
 # Library-Management System
-This is my IP Project that I have designed in class 11-12 using Netbeans Java and I have used My SQL as backend 
+Developed a robust Library Management System using Java Swing and MySQL, featuring secure user authentication,
+efficient book management, and seamless data persistence for streamlined book borrowing and returns
